@@ -1,7 +1,5 @@
 # such_invasion
 Much shooting so laugh
-
-A simple game called alien invasion.
     
                                                           wow                       
             wow                                                                    
